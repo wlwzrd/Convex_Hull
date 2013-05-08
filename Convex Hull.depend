@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1352679248 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\main.cpp
+	<iostream>
+	<vector>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithm.h"
+
+1352650857 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\point.cpp
+	"Point.h"
+
+1352650809 c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\point.h
+	<iostream>
+
+1164383408 c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\convexhull.h
+	<vector>
+
+1164383408 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\convexhull.cpp
+	"ConvexHull.h"
+
+1352678251 c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\algorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<math.h>
+	"ConvexHull.h"
+	"GrahamScanConvexHull.h"
+	<time.h>
+
+1164383468 c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\grahamscanconvexhull.h
+	<iostream>
+	<deque>
+	<vector>
+	<algorithm>
+	<math.h>
+	"ConvexHull.h"
+
+1164383408 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\grahamscanconvexhull.cpp
+	"GrahamScanConvexHull.h"
+
+1352678688 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\algorithm.cpp
+	"Algorithm.h"
+
+1352656543 source:c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\linesegment.cpp
+	"LineSegment.h"
+
+1352656843 c:\users\carlos\documents\university\2012-2\algorithms analysis\project\convex hull\linesegment.h
+	"Algorithm.h"
+
